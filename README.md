@@ -5,7 +5,10 @@ Projeto com a finalidade de treinar o que foi aprendido a longo do curso da udem
 
 
 
-https://user-images.githubusercontent.com/79730539/214809575-b0438bbd-e45c-4287-8c58-e8ef4acc7bd5.mp4
+
+https://user-images.githubusercontent.com/79730539/214809899-074b90e0-2407-4a34-907f-99dc63263e84.mp4
+
+
 
 
 ## Tecnologias utilizadas
